@@ -1,0 +1,36 @@
+body {
+	background-color: #14456c;
+	font-family: sans-serif;
+}
+
+h1, h2 {
+	color: white;
+	text-align: center;
+	font-variant: "roboto";
+}
+
+table {
+	margin: auto;
+}
+
+a {
+	color: white;
+	text-decoration: none;
+}
+
+#active {
+	color: #3dbacc;
+	font-weight: bold;
+}
+
+a:hover {
+	font-weight: bold;
+}
+
+#alpineheader {
+	margin-right: 4px;
+}
+
+#backgroundimage {
+	background: url('../images/mountains.jpg');
+}
